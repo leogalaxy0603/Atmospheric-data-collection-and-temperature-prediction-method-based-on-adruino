@@ -1,6 +1,6 @@
 # Atmospheric-data-collection-and-temperature-prediction-method-based-on-adruino
 Adruino; Temperature prediction
-This project was jointly completed by Chen Jinshuo, Liu Gaoyuan and Zhong Guangyuan.
+This project was jointly completed by Chen Jinshuo, Liu Gaoyuan, Zhong Guangyuan and Tianyu Gao.
 If you have any question please contact this E-mail: liugaoyuan@sdust.edu.cn
 This paper is published in 2022 China Automation Congress (CAC) https://ieeexplore.ieee.org/document/10055077
 If you want to use this code please cite this paper as follow:
